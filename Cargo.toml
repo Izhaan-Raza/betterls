@@ -2,7 +2,7 @@
 name = "betterls"
 version = "0.1.0"
 edition = "2021"
-repository = "https://github.com/izhaan-raza/betterls"
+repository = "https://github.com/Izhaan-Raza/betterls"
 
 # Define this as a workspace containing just this package
 [workspace]
